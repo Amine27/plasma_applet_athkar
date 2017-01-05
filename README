@@ -1,0 +1,41 @@
+=====================
+Athkar Plasmoid 0.2.4
+=====================
+
+Athkar is a plasmoid that display Islamic supplications every predetermined time from wathakker.net 
+or local database. 
+
+
+Source
+======
+You can the source from our git repository: http://git.ojuba.org/cgit/plasma-widget-athkar/
+
+
+Installation
+============
+
+First, you need a complete build environment. You must install packages cmake, make, gcc (g++), gettext and
+KDE development packages. These packages are called differently, depending on your distribution:
+kde-devel on Ubuntu, task-kde4-devel on Mandriva, or similar.
+
+mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=`kde4-config --prefix` ..
+make
+sudo make install
+
+
+Local athkar database
+=====================
+Local database used by the plasmoid depend on monajat-database project, get the latest one from here:
+http://git.ojuba.org/cgit/monajat/snapshot/monajat-master.tar.bz2
+and generate new database file by running './gen-db.py', place new generated 'data.db' file in 'data/'
+folder of plasma-widget-athkar and compile the project.
+
+
+Author
+======
+
+(c) Amine Roukh (amineroukh@gmail.com)
+
+icon from STYLEISLAM (www.styleislam.com)

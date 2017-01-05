@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Athkar
+Name[ar]=أذكار
+Comment=Islamic supplications
+Comment[ar]=الأذكار الإسلامية
+Comment[fr]=Islamique supplications
+Icon=tesbih
+Type=Service
+
+ServiceTypes=Plasma/Applet
+X-KDE-Library=plasma_applet_athkar
+X-KDE-PluginInfo-Author=Amine Roukh
+X-KDE-PluginInfo-Category=Online Services
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=amineroukh@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=athkar
+X-KDE-PluginInfo-Version=0.2.4
+X-KDE-PluginInfo-Website=http://plasma.kde.org/

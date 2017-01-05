@@ -1,0 +1,275 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.launchpad.net/\n"
+"POT-Creation-Date: 2011-02-12 18:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. i18n: file: form/configform.ui:14
+#. i18n: ectx: property (windowTitle), widget (QWidget, ConfigForm)
+#. i18n: file: form/dbform.ui:14
+#. i18n: ectx: property (windowTitle), widget (QWidget, DatabaseForm)
+#. i18n: file: form/wathakkerform.ui:14
+#. i18n: ectx: property (windowTitle), widget (QWidget, WathakkerForm)
+#. i18n: file: form/configform.ui:14
+#. i18n: ectx: property (windowTitle), widget (QWidget, ConfigForm)
+#. i18n: file: form/dbform.ui:14
+#. i18n: ectx: property (windowTitle), widget (QWidget, DatabaseForm)
+#. i18n: file: form/wathakkerform.ui:14
+#. i18n: ectx: property (windowTitle), widget (QWidget, WathakkerForm)
+#: build/ui_configform.h:193 build/ui_dbform.h:76 build/ui_wathakkerform.h:103
+#: po/rc.cpp:3 po/rc.cpp:45 po/rc.cpp:77 rc.cpp:3 rc.cpp:45 rc.cpp:77
+msgid "Form"
+msgstr ""
+
+#. i18n: file: form/configform.ui:20
+#. i18n: ectx: property (text), widget (QLabel, m_sourceLabel)
+#: build/ui_configform.h:194 po/rc.cpp:6 rc.cpp:6
+msgid "Display Athkar from:"
+msgstr ""
+
+#. i18n: file: form/configform.ui:28
+#. i18n: ectx: property (text), item, widget (QComboBox, m_sourceBox)
+#: build/ui_configform.h:197 po/rc.cpp:9 rc.cpp:9
+msgid "Local data base"
+msgstr ""
+
+#. i18n: file: form/configform.ui:33
+#. i18n: ectx: property (text), item, widget (QComboBox, m_sourceBox)
+#: build/ui_configform.h:198 po/rc.cpp:12 rc.cpp:12
+msgid "wathakker.net"
+msgstr ""
+
+#. i18n: file: form/configform.ui:54
+#. i18n: ectx: property (text), widget (QLabel, m_timeLabel)
+#: build/ui_configform.h:200 po/rc.cpp:15 rc.cpp:15
+msgid "Change thikr every:"
+msgstr ""
+
+#: build/ui_configform.h:201
+msgid "hh 'Hours' mm 'Mins' ss 'Secs'"
+msgstr ""
+
+#. i18n: file: form/configform.ui:74
+#. i18n: ectx: property (text), widget (QLabel, fontStyleLabel)
+#: build/ui_configform.h:202 po/rc.cpp:21 rc.cpp:21
+msgid "Style:"
+msgstr ""
+
+#. i18n: file: form/configform.ui:87
+#. i18n: ectx: property (text), widget (QCheckBox, fontBoldCheckBox)
+#: build/ui_configform.h:203 po/rc.cpp:24 rc.cpp:24
+msgid "&Bold"
+msgstr ""
+
+#. i18n: file: form/configform.ui:94
+#. i18n: ectx: property (text), widget (QCheckBox, fontItalicCheckBox)
+#: build/ui_configform.h:204 po/rc.cpp:27 rc.cpp:27
+msgid "&italic"
+msgstr ""
+
+#. i18n: file: form/configform.ui:109
+#. i18n: ectx: property (text), widget (QCheckBox, customFont)
+#: build/ui_configform.h:205 po/rc.cpp:30 rc.cpp:30
+msgid "Use custom font size:"
+msgstr ""
+
+#. i18n: file: form/configform.ui:121
+#. i18n: ectx: property (text), widget (QLabel, fontColorLabel)
+#: build/ui_configform.h:206 po/rc.cpp:33 rc.cpp:33
+msgid "Color:"
+msgstr ""
+
+#. i18n: file: form/configform.ui:137
+#. i18n: ectx: property (text), widget (QRadioButton, useThemeColor)
+#: build/ui_configform.h:207 po/rc.cpp:36 rc.cpp:36
+msgid "Use theme color"
+msgstr ""
+
+#. i18n: file: form/configform.ui:155
+#. i18n: ectx: property (text), widget (QRadioButton, useCustomColor)
+#: build/ui_configform.h:208 po/rc.cpp:39 rc.cpp:39
+msgid "Use custom color:"
+msgstr ""
+
+#. i18n: file: form/configform.ui:184
+#. i18n: ectx: property (text), widget (QLabel, fontSizeLabel)
+#: build/ui_configform.h:209 po/rc.cpp:42 rc.cpp:42
+msgid "Size:"
+msgstr ""
+
+#. i18n: file: form/dbform.ui:25
+#. i18n: ectx: property (text), widget (QLabel, m_langLabel)
+#. i18n: file: form/wathakkerform.ui:94
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: file: form/dbform.ui:25
+#. i18n: ectx: property (text), widget (QLabel, m_langLabel)
+#. i18n: file: form/wathakkerform.ui:94
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: build/ui_dbform.h:77 build/ui_wathakkerform.h:113 po/rc.cpp:48 po/rc.cpp:98
+#: rc.cpp:48 rc.cpp:98
+msgid "Athkar language:"
+msgstr ""
+
+#. i18n: file: form/dbform.ui:35
+#. i18n: ectx: property (text), widget (QCheckBox, m_showMeritsBox)
+#: build/ui_dbform.h:78 po/rc.cpp:51 rc.cpp:51
+msgid "Show merits"
+msgstr ""
+
+#. i18n: file: form/voiceform.ui:17
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: build/ui_voiceform.h:139 po/rc.cpp:54 rc.cpp:54
+msgid "Choose your TTS engine"
+msgstr ""
+
+#. i18n: file: form/voiceform.ui:26
+#. i18n: ectx: property (text), widget (QRadioButton, radioFestival)
+#: build/ui_voiceform.h:140 po/rc.cpp:57 rc.cpp:57
+msgid "festival"
+msgstr ""
+
+#. i18n: file: form/voiceform.ui:35
+#. i18n: ectx: property (text), widget (QLabel, labelFestival)
+#. i18n: file: form/voiceform.ui:53
+#. i18n: ectx: property (text), widget (QLabel, labelEspeak)
+#. i18n: file: form/voiceform.ui:35
+#. i18n: ectx: property (text), widget (QLabel, labelFestival)
+#. i18n: file: form/voiceform.ui:53
+#. i18n: ectx: property (text), widget (QLabel, labelEspeak)
+#: build/ui_voiceform.h:141 build/ui_voiceform.h:143 po/rc.cpp:60 po/rc.cpp:66
+#: src/voice.cpp:54 src/voice.cpp:64 rc.cpp:60 rc.cpp:66
+msgid "found"
+msgstr ""
+
+#. i18n: file: form/voiceform.ui:44
+#. i18n: ectx: property (text), widget (QRadioButton, radioEspeak)
+#: build/ui_voiceform.h:142 po/rc.cpp:63 rc.cpp:63
+msgid "espeak"
+msgstr ""
+
+#. i18n: file: form/voiceform.ui:67
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: build/ui_voiceform.h:144 po/rc.cpp:69 rc.cpp:69
+msgid "info"
+msgstr ""
+
+#. i18n: file: form/voiceform.ui:100
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: build/ui_voiceform.h:146 po/rc.cpp:72 rc.cpp:72
+msgid ""
+"\n"
+"\n"
+"Athkar in Arabic are not supported"
+msgstr ""
+
+#. i18n: file: form/wathakkerform.ui:23
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: build/ui_wathakkerform.h:104 po/rc.cpp:80 rc.cpp:80
+msgid "Show:"
+msgstr ""
+
+#. i18n: file: form/wathakkerform.ui:35
+#. i18n: ectx: property (text), widget (QCheckBox, hadithCheckBox)
+#: build/ui_wathakkerform.h:105 po/rc.cpp:83 rc.cpp:83
+msgid "Hadith"
+msgstr ""
+
+#: build/ui_wathakkerform.h:106
+msgid "Douaa"
+msgstr ""
+
+#: build/ui_wathakkerform.h:107
+msgid "Hikma"
+msgstr ""
+
+#. i18n: file: form/wathakkerform.ui:81
+#. i18n: ectx: property (text), item, widget (QComboBox, langComboBox)
+#: build/ui_wathakkerform.h:110 po/rc.cpp:92 rc.cpp:92
+msgid "Arabic"
+msgstr ""
+
+#. i18n: file: form/wathakkerform.ui:86
+#. i18n: ectx: property (text), item, widget (QComboBox, langComboBox)
+#: build/ui_wathakkerform.h:111 po/rc.cpp:95 rc.cpp:95
+msgid "English"
+msgstr ""
+
+#. i18n: file: form/configform.ui:67
+#. i18n: ectx: property (displayFormat), widget (QTimeEdit, m_timeDelay)
+#: po/rc.cpp:18 rc.cpp:18
+msgctxt ""
+"(qtdt-format) Please do not change the quotes (') and translate only the "
+"content of the quotes."
+msgid "hh 'Hours' mm 'Mins' ss 'Secs'"
+msgstr ""
+
+#. i18n: file: form/wathakkerform.ui:45
+#. i18n: ectx: property (text), widget (QCheckBox, douaaCheckBox)
+#: po/rc.cpp:86 rc.cpp:86
+msgid "Proverb prayer"
+msgstr ""
+
+#. i18n: file: form/wathakkerform.ui:55
+#. i18n: ectx: property (text), widget (QCheckBox, hikmaCheckBox)
+#: po/rc.cpp:89 rc.cpp:89
+msgid "Wisdom"
+msgstr ""
+
+#: po/rc.cpp:99 rc.cpp:99
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#: po/rc.cpp:100 rc.cpp:100
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: src/athkar.cpp:106
+msgid "Next Thikr"
+msgstr ""
+
+#: src/athkar.cpp:109
+msgid "Previous Thikr"
+msgstr ""
+
+#: src/athkar.cpp:113
+msgid "Copy Thikr"
+msgstr ""
+
+#: src/athkar.cpp:117
+msgid "Listen to Thikr"
+msgstr ""
+
+#: src/athkar.cpp:153
+msgid "General"
+msgstr ""
+
+#: src/athkar.cpp:154
+msgid "Database"
+msgstr ""
+
+#: src/athkar.cpp:155
+msgid "Wathakker.net"
+msgstr ""
+
+#: src/athkar.cpp:156
+msgid "Voice"
+msgstr ""
+
+#: src/voice.cpp:58 src/voice.cpp:69
+msgid "not found... please install it"
+msgstr ""
