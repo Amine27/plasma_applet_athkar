@@ -1,1 +1,0 @@
-# plasma_applet_athkar
